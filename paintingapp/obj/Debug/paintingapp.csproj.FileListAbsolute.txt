@@ -1,0 +1,10 @@
+C:\Users\PC\source\repos\paintingapp\bin\Debug\paintingapp.exe.config
+C:\Users\PC\source\repos\paintingapp\bin\Debug\paintingapp.exe
+C:\Users\PC\source\repos\paintingapp\bin\Debug\paintingapp.pdb
+C:\Users\PC\source\repos\paintingapp\obj\Debug\paintingapp.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\paintingapp\obj\Debug\paintingapp.MyPaint.resources
+C:\Users\PC\source\repos\paintingapp\obj\Debug\paintingapp.Properties.Resources.resources
+C:\Users\PC\source\repos\paintingapp\obj\Debug\paintingapp.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\paintingapp\obj\Debug\paintingapp.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\paintingapp\obj\Debug\paintingapp.exe
+C:\Users\PC\source\repos\paintingapp\obj\Debug\paintingapp.pdb
